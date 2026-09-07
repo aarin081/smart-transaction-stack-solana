@@ -1,0 +1,10 @@
+{
+  "signature": "5PMzeT4uvvBnXLZTf5SyBXugw3L7LKF4Y9r2MtcBUMizCr6gAi3i8b7M8ngZDETHQ8FQvb3dFGsRSJC2He7L9tQy",
+  "latency": 646,
+  "attempts": 1,
+  "network": {
+    "currentTPS": 86.23333333333333,
+    "avgTPS": 80.87666666666667,
+    "deviation": 5.356666666666669
+  }
+}
